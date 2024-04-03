@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prince-chilly1-byte
 - 👀 I’m interested in quant finance and data science topics 
-- 🌱 I’m currently learning how to construct investment portfolios using python
+- 🌱 I’m currently learning how to construct investment portfolios and price derivatives using python and excel
 - 💞️ I’m looking to collaborate on learning new trends in the field of data science and quant finance 
 - 📫 How to reach me... LinkedIn and Facebook ( Prince Khutso Chiloane, University of Pretoria student from Bushbuckridge)
 - 😄 Pronouns: ...
